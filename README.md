@@ -3,9 +3,9 @@ In this section of the course, an introduction to how gene annotation is perform
 This section of the course includes:
 * Obtaining data
 * Quality control
-* Preprocessing (trimming and avoidance of duplicates)
-* Transcriptome assembly
-* Gene prediction and annotation
+* Preprocessing (trimming)
+* Running Funannotate
+* Final evaluation
 
 The data to be anlyzed in this section comes from the paper: [A chromosome-scale assembly of the smallest Dothideomycete genome reveals a unique genome compaction mechanism in filamentous fungi](https://doi.org/10.1186/s12864-020-6732-8 "Wang et al. BMC Genomics 21:321 (2020)").
 
